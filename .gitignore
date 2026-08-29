@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.session
+state.json
+receipt.json
+receipts/
+.gate-key
+*.receipt.json
+.bookmark-digest-chrome/
+.local/
